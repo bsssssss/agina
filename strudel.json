@@ -7,7 +7,6 @@
     "agina_sub/sub-004.wav"
   ],
   "agina_bd": {
-    "_base": "https://github.com/bsssssss/agina/main/agina_bd/",
     "bd-001": "bd-001.wav",
     "bd-002": "bd-002.wav",
     "bd-003": "bd-003.wav",
@@ -35,7 +34,6 @@
     "bd-025": "bd-025.wav"
   },
   "agina_fx": {
-    "_base": "https://github.com/bsssssss/agina/main/agina_fx/",
     "fx-001": "fx-001.wav",
     "fx-002": "fx-002.wav",
     "fx-003": "fx-003.wav",
